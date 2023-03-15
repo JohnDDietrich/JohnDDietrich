@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm John and I work in ecology/botany and GIS 👋
 
 <!--
 **JohnDDietrich/JohnDDietrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
