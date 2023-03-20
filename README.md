@@ -12,7 +12,7 @@
 
 <h2>Publications</h2>
 
-- [The effect of timing of growing season drought on flowering of a dominant C4 grass (1st Author)](https://link.springer.com/article/10.1007/s00442-016-3579-4)
+- [The effect of timing of growing season drought on flowering of a dominant C4 grass (1st author)](https://link.springer.com/article/10.1007/s00442-016-3579-4)
 - [Drought timing differentially affects above- and beloground productivity in a mexic grassland](https://link.springer.com/article/10.1007/s11258-016-0690-x)
 
 
