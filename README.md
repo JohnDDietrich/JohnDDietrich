@@ -1,37 +1,20 @@
 <h1>Hi, I'm John and I am work in ecology/botany using GIS! <br/><a href="https://github.com/joshmadakor1">Ecology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Botany</a>, <a href="https://www.youtube.com/c/joshmadakor">GIS</a></h1>
 
-<h2>👨‍💻 GIS Projects:</h2>
+<h2>👨‍💻 GIS/Data Projects:</h2>
 
 - <b>Montenegro Habitat Model</b>
   - [Using a DEM and water features to model habitat](https://github.com/JohnDDietrich/GISMontenegro)
 - <b>NR427 Final Project Sinuosity in Streams of Larimer County</b>
-  - [Coding in Python to automate geospatial calculations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>NR427 Final Project</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Coding in Python to automate geospatial calculations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Visualizing nutrient availability</b>
+  - [Using Python/Pandas to manipulate data on soil nutrient availability and presenting results in faceted plots](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
 
 <h2>Publications</h2>
 
-- [The effect of timing of growing season drought on flowering of a dominant C4 grass](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The effect of timing of growing season drought on flowering of a dominant C4 grass (1st Author)](https://link.springer.com/article/10.1007/s00442-016-3579-4)
+- [Drought timing differentially affects above- and beloground productivity in a mexic grassland](https://link.springer.com/article/10.1007/s11258-016-0690-x)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
