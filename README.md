@@ -7,7 +7,7 @@
 - <b>NR426 Final Project Sinuosity in Streams of Larimer County</b>
   - [Coding in Python to automate geospatial calculations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Visualizing nutrient availability</b>
-  - [Using Python/Pandas to manipulate data on soil nutrient availability and presenting results in faceted plots](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Using Python/Pandas to manipulate data on soil nutrient availability and presenting results in faceted plots](https://github.com/JohnDDietrich/Soil-Nutrients)
  
 
 <h2>Publications</h2>
