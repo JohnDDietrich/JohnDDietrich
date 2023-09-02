@@ -1,4 +1,4 @@
-<h1>Hi, I'm John and I am work in ecology/botany, and I'm learning to integrate GIS. <br/><a href="https://github.com/joshmadakor1">Ecology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Botany</a>, <a href="https://www.youtube.com/c/joshmadakor">GIS</a></h1>
+<h1>Hi, I'm John and I am work in ecology/botany, and I'm learning to integrate GIS. 
 
 <h2>👨‍💻 GIS/Data Projects:</h2>
 
