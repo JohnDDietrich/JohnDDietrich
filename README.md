@@ -18,7 +18,7 @@
 <h2>Resume</h2>
 
 
-  - [Dietrich](https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf)
+  - [ResumeDietrich](https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf)
 
 
 
