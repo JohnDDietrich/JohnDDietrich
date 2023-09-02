@@ -5,7 +5,7 @@
 - <b>Montenegro Habitat Model</b>
   - [Using a DEM and water features to model habitat](https://github.com/JohnDDietrich/GISMontenegro)
 - <b>NR426 Final Project Sinuosity in Streams of Larimer County</b>
-  - [Coding in Python to automate geospatial calculations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Coding in Python to automate geospatial calculations](https://github.com/JohnDDietrich/Stream-Sinuosity-in-Larimer-County-CO)
 - <b>Visualizing nutrient availability</b>
   - [Using Python/Pandas to manipulate data on soil nutrient availability and presenting results in faceted plots](https://github.com/JohnDDietrich/Soil-Nutrients)
  
