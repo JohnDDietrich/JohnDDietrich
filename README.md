@@ -15,14 +15,8 @@
 - [The effect of timing of growing season drought on flowering of a dominant C4 grass (1st author)](https://link.springer.com/article/10.1007/s00442-016-3579-4)
 - [Drought timing differentially affects above- and beloground productivity in a mexic grassland](https://link.springer.com/article/10.1007/s11258-016-0690-x)
 
+<h2>Resume</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
