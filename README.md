@@ -22,6 +22,16 @@
 
 <h2>Resume</h2>
 - <b>J. Dietrich</b>
+
+
+
+
+- <b>Resume</b>
+  - [Dietrich](https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf)
+
+
+
+  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf
