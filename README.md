@@ -16,12 +16,7 @@
 - [Drought timing differentially affects above- and beloground productivity in a mexic grassland](https://link.springer.com/article/10.1007/s11258-016-0690-x)
 
 <h2>Resume</h2>
-- <b>J. Dietrich</b>
-  - [Praciting DS & Algos in Python](https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf)
 
-
-<h2>Resume</h2>
-- <b>J. Dietrich</b>
 
 
 
@@ -31,9 +26,3 @@
 
 
 
-  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf
-
-- [Resume] <img src="[https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf]
