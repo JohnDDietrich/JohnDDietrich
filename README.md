@@ -16,4 +16,4 @@
 - [Drought timing differentially affects above- and beloground productivity in a mexic grassland](https://link.springer.com/article/10.1007/s11258-016-0690-x)
 
 <h2>Resume</h2>
-- [Resume](https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf)
+- [Resume] <img src="[https://github.com/JohnDDietrich/Portfolio/blob/main/ResumeDietrich.pdf]
