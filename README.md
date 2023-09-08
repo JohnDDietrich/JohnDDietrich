@@ -1,5 +1,4 @@
-<h1>Hi, I'm John and I am work in ecology/botany, and I'm learning to integrate GIS. 
-
+<h1>Hi, I'm John and I have experience in botany and environmental science and I am interested in how data is collected, managed and analyzed using a variety of statistical and spatial techniques.
 <h2>👨‍💻 GIS/Data Projects:</h2>
 
 - <b>Montenegro Habitat Model</b>
