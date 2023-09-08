@@ -1,4 +1,4 @@
-<h1>Hi, I'm John and I have experience in botany and environmental science and I am interested in how data is collected, managed and analyzed using a variety techniques including spatail analyses.
+<h1>Hi, I'm John and I have experience in botany and environmental science and I am interested in how data is collected, managed and analyzed using a variety techniques including spatial analyses.
 <h2>👨‍💻 GIS/Data Projects:</h2>
 
 - <b>Montenegro Habitat Model</b>
